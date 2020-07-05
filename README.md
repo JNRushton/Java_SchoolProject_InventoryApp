@@ -1,4 +1,4 @@
-# SchoolProject_InventoryApp
+# Java_SchoolProject_InventoryApp
 
 This is a final Java project I created in NetBeans for one of my classes while I was pursuing my BS degree at WGU. 
 
